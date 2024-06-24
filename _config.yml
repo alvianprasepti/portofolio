@@ -28,7 +28,7 @@ author_bio: Hi, nama saya is Alvian Prasepti. Seorang Guru SLBN Tasikmalaya :D
 author_email: "alvianprasepti58@guru.slb.belajar.id"
 author_location: Indonesia
 author_website_url: "https://alvianprasepti.github.io/portofolio/"
-typewrite-text: nama saya Alvian Prasepti, 
+typewrite-text: Seorang Guru yang suka musik, 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -64,7 +64,7 @@ projek:
 
 # social links
 twitter_username: johndoe
-github_username:  sujaykundu777
+github_username:  alvianprasepti
 facebook_username: johndoe
 linkedin_username: johndoe
 instagram_username: johndoe
@@ -77,7 +77,7 @@ telegram_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: alvianprasepti
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
