@@ -26,8 +26,8 @@ author_logo: profile.png
 author: Alvian Prasepti
 author_bio: Hi, nama saya is Alvian Prasepti. Seorang Guru SLBN Tasikmalaya :D
 author_email: "alvianprasepti58@guru.slb.belajar.id"
-author_location: India
-author_website_url: "https://alvianprasepti.github.io/portofolio/profil/#/"
+author_location: Indonesia
+author_website_url: "https://alvianprasepti.github.io/portofolio/"
 typewrite-text: nama saya Alvian Prasepti, 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -67,12 +67,9 @@ twitter_username: johndoe
 github_username:  sujaykundu777
 facebook_username: johndoe
 linkedin_username: johndoe
-behance_username: johndoe
 instagram_username: johndoe
 medium_username: johndoe
 telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
