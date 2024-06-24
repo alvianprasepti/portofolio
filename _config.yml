@@ -43,24 +43,30 @@ pekerjaan:
 # Education
 pendidikan:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: nama universitas
                 college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_degree: Jurusan/Prodi
+                description: Deskripsi
+                visibility: true
+              - college_logo: mit.png
+                college_name: Sma
+                college_url: https://mit.org
+                college_degree: Jurusan/Prodi
+                description: Deskripsi
+                visibility: true
+                - college_logo: mit.png
+                college_name: Smp
+                college_url: https://mit.org
+                college_degree: Jurusan/Prodi
+                description: Deskripsi
+                visibility: true
+                - college_logo: mit.png
+                college_name: SD
+                college_url: https://mit.org
+                college_degree: Jurusan/Prodi
+                description: Deskripsi
                 visibility: true
 
-# Projects
-projek:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
 
 # social links
 twitter_username: johndoe
