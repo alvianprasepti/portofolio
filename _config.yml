@@ -28,26 +28,20 @@ author_bio: Hi, nama saya is Alvian Prasepti. Seorang Guru SLBN Tasikmalaya :D
 author_email: "alvianprasepti58@guru.slb.belajar.id"
 author_location: India
 author_website_url: "https://alvianprasepti.github.io/portofolio/profil/#/"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: nama saya Alvian Prasepti, 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
-author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
+pekerjaan:
+            - company_name: nama sekolah
+              company_logo: logo-sekolah.png
+              company_url: website sekolah
+              designation: jabatan
               description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
               visibility: true
 
 # Education
-author_education_details:
+pendidikan:
               - college_logo: mit.png
                 college_name: MIT
                 college_url: https://mit.org
@@ -56,7 +50,7 @@ author_education_details:
                 visibility: true
 
 # Projects
-author_project_details:
+projek:
               - project_thumbnail: gamershub.png
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
@@ -105,9 +99,9 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
-show_author_project_details: true
+show_pekerjaan: true
+show_pendidikan: true
+show_projek: true
 
 # pagination of posts
 paginate: 4

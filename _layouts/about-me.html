@@ -94,7 +94,7 @@ layout: default
     </div>
 
     <div class="card">
-      <h1>Skills</h1>
+      <h1>Keahlian</h1>
 
       {%- include author_skills.html -%}
     </div>
@@ -113,11 +113,11 @@ layout: default
       <h1 class="card-title">About</h1>
       <p>{{ site.author_bio }}</p>
     </div>
-    {% endif %} {% if site.show_author_project_details == true %}
+    {% endif %} {% if site.show_projek == true %}
     <div id="author_projects" class="card">
-      <h1 class="card-title">Projects</h1>
+      <h1 class="card-title">Projek</h1>
       <br />
-      {% for project in site.author_project_details %} {% if project.visibility
+      {% for project in site.projek %} {% if project.visibility
       == true %}
       <div class="row" id="project-card">
         <div class="col-md-6">
@@ -140,11 +140,11 @@ layout: default
       <br />
       {% endif %} {% endfor %}
     </div>
-    {% endif %} {% if site.show_author_work_experiences == true %}
+    {% endif %} {% if site.show_pekerjaan == true %}
     <div class="card">
-      <h1 class="card-title">Work Experience</h1>
+      <h1 class="card-title">Riwayat Pekerjaan</h1>
       <br />
-      {% for exp in site.author_work_experiences %} {% if exp.visibility == true
+      {% for exp in site.pekerjaan %} {% if exp.visibility == true
       %}
       <div class="row">
         <div class="col-md-2">
@@ -162,11 +162,11 @@ layout: default
       </div>
       {% endif %} {% endfor %}
     </div>
-    {% endif %} {% if site.show_author_education_details == true %}
+    {% endif %} {% if site.show_pendidikan == true %}
     <div class="card">
       <h1 class="card-title">Education</h1>
       <br />
-      {% for detail in site.author_education_details %} {% if detail.visibility
+      {% for detail in site.pendidikan %} {% if detail.visibility
       == true %}
       <div class="row">
         <div class="col-md-2">
