@@ -1,5 +1,5 @@
 ---
-title: About
+title: Profil
 layout: about-me
-permalink: /about/
+permalink: /profil/
 ---
