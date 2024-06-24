@@ -25,9 +25,9 @@ urls:
 author_logo: profile.png
 author: Alvian Prasepti
 author_bio: Hi, nama saya is Alvian Prasepti. Seorang Guru SLBN Tasikmalaya :D
-author_email: "mail@sujaykundu.com"
+author_email: "alvianprasepti58@guru.slb.belajar.id"
 author_location: India
-author_website_url: "https://sujaykundu.com"
+author_website_url: "https://alvianprasepti.github.io/portofolio/profil/#/"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
