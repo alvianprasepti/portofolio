@@ -16,15 +16,15 @@ urls:
       url: /blog
     - text: Galeri
       url: /gallery
-    - text: kontak
+    - text: Kontak
       url : /kontak
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author: Alvian Prasepti
+author_bio: Hi, nama saya is Alvian Prasepti. Seorang Guru SLBN Tasikmalaya :D
 author_email: "mail@sujaykundu.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
